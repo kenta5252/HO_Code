@@ -1,6 +1,9 @@
 ファイル説明
 
-以下の２つのコードはMATLABを用いて作成
+以下の3つのコードはMATLABを用いて作成
+
+・Visualize_SimulationEnvironment.m
+　1つのMセル内にSセルを100-1000個配置させた異種高密度ネットワーク環境を可視化するコード
 
 ・VHO_times_simulation.m 
 
